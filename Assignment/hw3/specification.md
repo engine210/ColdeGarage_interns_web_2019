@@ -1,10 +1,10 @@
 ### Assignment 3
 * Imitating the html page below.
-* The background image should fixed.
+* The background image should be fixed.
 * The font of "Welcome To My Blog" is Griffy.
 * Blockquote should be used.
 * The footer should have shadow.
-* The width of the content should be smaller than the screen width.
+* The width of the content should be smaller than the screen width, and its normal width is 600px.
 * The inner texe:
 ```
 FEBRUARY 24 2019
