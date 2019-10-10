@@ -8,5 +8,6 @@
 * The "Forgot email?", "Create account", "Next" button can be implement by the &lt;button&gt; tag.
 * The "Learn More" should be a hyperlink.
 * The grey-bordered div should be horizontally and vertically centered.
-* Fonts can be found in https://fonts.google.com/
+* Fonts "Noto Sans" can be found in https://fonts.google.com/
+* Remeber to change the logo beside the page title.
 ![](https://i.imgur.com/rFFoOy9.png)
