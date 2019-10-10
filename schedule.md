@@ -25,3 +25,8 @@
 ## 10/3 CSS
 ### w3school
 * CSS Introduction ~ Max width
+
+## 10/9 CSS
+Video about position: https://youtu.be/-vo0HzNHL3U (must watch)
+### w3school
+Position ~ Opacity
