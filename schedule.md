@@ -26,7 +26,19 @@
 ### w3school
 * CSS Introduction ~ Max width
 
-## 10/9 CSS
+## 10/8 CSS
 Video about position: https://youtu.be/-vo0HzNHL3U (must watch)
 ### w3school
 Position ~ Opacity
+
+## 10/16 CSS
+Navigation Bar
+Dropdowns
+Attribute Selectors
+Forms
+Rounded Corners
+Backgrounds
+Color
+Shadows
+2D Transforms
+Transitions
