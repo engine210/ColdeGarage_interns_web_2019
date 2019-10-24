@@ -1,5 +1,6 @@
 # Course Schedule
-
+Meterial: w3school
+https://www.w3schools.com/html/default.asp
 ## 9/19 html introduction
 * basic internet introduction
 * basic html demo
