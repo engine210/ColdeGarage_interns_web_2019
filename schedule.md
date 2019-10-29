@@ -32,7 +32,7 @@ Video about position: https://youtu.be/-vo0HzNHL3U (must watch)
 ### w3school
 Position ~ Opacity
 
-## 10/16 CSS
+## 10/23 CSS
 ### w3school
 * Navigation Bar
 * Dropdowns
