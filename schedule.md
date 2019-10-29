@@ -33,13 +33,14 @@ Video about position: https://youtu.be/-vo0HzNHL3U (must watch)
 Position ~ Opacity
 
 ## 10/16 CSS
-Navigation Bar
-Dropdowns
-Attribute Selectors
-Forms
-Rounded Corners
-Backgrounds
-Color
-Shadows
-2D Transforms
-Transitions
+### w3school
+* Navigation Bar
+* Dropdowns
+* Attribute Selectors
+* Forms
+* Rounded Corners
+* Backgrounds
+* Color
+* Shadows
+* 2D Transforms
+* Transitions
