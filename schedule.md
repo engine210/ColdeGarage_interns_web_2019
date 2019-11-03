@@ -44,3 +44,10 @@ Position ~ Opacity
 * Shadows
 * 2D Transforms
 * Transitions
+
+## 11/3 CSS
+### w3school
+Layout
+Box sizing
+Media Queries
+Responsive
