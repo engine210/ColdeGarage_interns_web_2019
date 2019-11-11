@@ -47,7 +47,7 @@ Position ~ Opacity
 
 ## 11/3 CSS
 ### w3school
-Layout
-Box sizing
-Media Queries
-Responsive
+* Layout
+* Box sizing
+* Media Queries
+* Responsive
